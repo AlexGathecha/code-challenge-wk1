@@ -10,6 +10,7 @@ function calculateNetSalary(basicSalary, benefits) {
     return netSalary;
 }
 
+
 const basicSalary = parseFloat(prompt("Enter your basic salary: "));
 const benefits = parseFloat(prompt("Enter your benefits: "));
 alert(`Your net salary is: ${calculateNetSalary(basicSalary, benefits).toFixed(2)}`);
