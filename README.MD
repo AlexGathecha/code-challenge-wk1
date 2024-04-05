@@ -19,8 +19,6 @@ Git clone https://github.com/AlexGathecha/code-challenge-wk1
 
 ```
 
-# Live Link
-[Git](gh-pages link)
 
 ## Technologies used
 HTML
